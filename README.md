@@ -1,1 +1,1 @@
-# Mod-lisation-de-syst-mes-intelligents
+# Modelisation-de-systemes-intelligents
