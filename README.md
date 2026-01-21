@@ -4,7 +4,14 @@
 
 [Comparaison de l'influence du nombre de coupes](https://github.com/TauntiiO/Mod-lisation-de-syst-mes-intelligents/blob/main/Notebook_Comparaison.ipynb)
 
-## Test sir 7 coupes groupées vers le centre de l'IRM
+| Nmbre de coupes  | Dice |
+| ------------- | ------------- |
+| 1  | 47.4%  |
+| 3  | 49.2%  |
+| 5  | 56.0%  |
+| 7  | **57.9%**  |
+
+## Test sur 7 coupes groupées vers le centre de l'IRM
 
 [Test sur 7 coupes groupées vers le centre de l'IRM](https://github.com/TauntiiO/Mod-lisation-de-syst-mes-intelligents/blob/main/Notebook_7Slices.ipynb)
 
